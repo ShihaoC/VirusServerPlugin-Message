@@ -1,0 +1,4 @@
+name: WelcomeMsg
+version: '${project.version}'
+main: com.Main
+api-version: 1.18
